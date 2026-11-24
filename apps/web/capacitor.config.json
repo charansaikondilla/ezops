@@ -1,0 +1,6 @@
+{
+  "appId": "in.ezops.app",
+  "appName": "EZ ops",
+  "webDir": "dist",
+  "server": { "androidScheme": "https" }
+}
